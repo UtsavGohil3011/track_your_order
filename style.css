@@ -1,0 +1,10 @@
+.track_order_p{
+    font-size: 16px;
+    font-family: 'Helvetica Neue', sans-serif !important;
+    line-height: 1.2;
+    color: #5c5c5c;
+}
+.vl {
+    border-left: 3px solid  #5c5c5c;
+    height: 100px;
+  }
